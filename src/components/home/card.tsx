@@ -61,7 +61,7 @@ const cardHomeSection = [
     title: "المكتبة الزراعية",
     subTitle: "مكتبة شاملة من المقالات والأبحاث لتعزيز معرفتك الزراعية وتطوير مهاراتك.",
     buttons: "تصفح المكتبة",
-    path: "/pages/library", // المسار الخاص بالمكتبة
+    path: "https://agriculture-community-alpha.vercel.app/", // المسار الخاص بالمكتبة
   },
   {
     icon: <PiPlantFill className="text-5xl" />,
