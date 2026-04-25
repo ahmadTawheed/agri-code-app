@@ -1,0 +1,19 @@
+.devFormFollowCrop{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    gap: 12px;
+    width: 75%;
+
+}
+
+
+.inputFormFollowCrop{
+    width: 100%;
+    padding: 8px 16px;
+    border: 2px solid gray;
+    background-color: aliceblue;
+    border-radius: 4px;
+    outline: none;
+}
